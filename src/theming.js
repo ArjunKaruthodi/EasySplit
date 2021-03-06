@@ -162,7 +162,7 @@ theme.overrides = {
             backgroundColor: theme.palette.primary.main,
             color: theme.palette.easySplitWhite.main,
             '&:hover': {
-                backgroundColor: '#243A5E',
+                backgroundColor: '#243A5E !important',
                 outlineColor: '#243A5E',
                 color: '#ffffff'
             }
